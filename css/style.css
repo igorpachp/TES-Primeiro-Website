@@ -1,0 +1,64 @@
+body {
+    margin: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 300%;
+    margin: 32px 0;
+}
+
+h2 {
+    font-size: 200%;
+    margin: 16px 0;
+}
+
+h3 {
+    font-size: 150%;
+    margin: 16px 0;
+}
+
+.aside {
+    float: right;
+    background-color: #ddd;
+    padding: 12px;
+}
+
+p {
+    margin: 16px 0;
+    width: 600px;
+    text-align: justify;
+}
+
+.aside p {
+    width: 300px;
+}
+
+.aside h3 {
+    width: 300px;
+}
+
+hr {
+    margin-top: 32px;
+}
+
+ol {
+    margin-left: 64px;
+    list-style: decimal;
+}
+
+table {
+    margin: 24px;
+}
+
+col.left {
+    width: 25%;
+}
+
+th {
+    padding: 12px;
+}
+
+td {
+    padding: 8px;
+}
